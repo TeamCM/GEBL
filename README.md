@@ -1,6 +1,6 @@
 Good Enough Bootloader
 ================================
-Good Enough BootLoader is a Multi-boot Bootloader configured with config files.
+Good Enough BootLoader is a Multi-boot Bootloader for OpenComputers.
 
 ## Features:
 - Arguments system
