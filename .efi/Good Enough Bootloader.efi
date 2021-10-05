@@ -1,0 +1,1 @@
+--[[GEBL OEFI]]local a,b=component.invoke,computer.getBootAddress()local c,d=a(b,"open","/init.lua"),""repeat local e=a(b,"read",c,math.huge)d=d..(e or"")until not e;a(b,"close",c)local f=oefi or select(1,...)return load(d,"=/init.lua")(f)
