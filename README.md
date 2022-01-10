@@ -16,6 +16,3 @@ Good Enough BootLoader is a Multi-boot Bootloader for OpenComputers.
 Screenshot:
 
 ![image](https://user-images.githubusercontent.com/52385139/135964320-ad8f35c6-3557-41eb-88f2-2fa6f92a308d.png)
-
-## WARNING:
-MineOS is not suported because of their own native bootloader in their EFI, check [#396](https://github.com/IgorTimofeev/MineOS/issues/396).
